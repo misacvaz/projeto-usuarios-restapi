@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RESTful API de Usuários
 
 [![Hcode Treinamentos](https://www.hcode.com.br/res/img/hcode-200x100.png)](https://www.hcode.com.br)
@@ -74,4 +74,4 @@ Exemplo de resultado:
 =======
 # projeto-usuarios-restapi
 treinamento de Hcode 
->>>>>>> 7025e040abbe3a869f73bb17735f6a964526dcb9
+
